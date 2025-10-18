@@ -28,7 +28,8 @@ The servers can connect to the internet by using the NAT gateway.
 
 6) Test and validate the setup: SSH into the EC2 instances using the private key and verify connectivity. Test network connectivity between instances in different subnets. Validate security group rules and network ACL settings.
 
-Screenshot of project:
+<img width="611" height="481" alt="image" src="https://github.com/user-attachments/assets/f5feefb6-048d-4ef1-8751-974ae5c30064" />
+
 
 # Key Definitions
 
